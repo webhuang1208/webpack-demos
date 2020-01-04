@@ -7,7 +7,7 @@
 export default {
   data() {
     return {
-      initData: 'hello world233423412234243'
+      initData: 'hello world2334234122342432344'
     }
   }
 }
