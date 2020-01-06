@@ -7,7 +7,7 @@
 export default {
   data() {
     return {
-      initData: 'hello worlddevelop'
+      initData: 'hello worldv0.2.1'
     }
   }
 }
