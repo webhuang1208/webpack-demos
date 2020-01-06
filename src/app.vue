@@ -7,7 +7,7 @@
 export default {
   data() {
     return {
-      initData: 'hello worldhotfix'
+      initData: 'hello worldhotfix 修改111'
     }
   }
 }
